@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hp
+Build-Jdk: 14.0.2
+Implementation-Title: ConnectionServices
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: genx.uppcl.ewallet.bill.urban
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ConnectionServices
+Created-By: Maven Integration for Eclipse
+
